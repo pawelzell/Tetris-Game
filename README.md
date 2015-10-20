@@ -1,7 +1,7 @@
 # Tetris-Game
 
-![Main menu](https://github.com/pawelzell/Tetris-Game//screenshots/tetris1.png)
-![Game](https://github.com/pawelzell/Tetris-Game//screenshots/tetris1.png  )
+![Main menu](https://github.com/pawelzell/Tetris-Game/blob/master/screenshots/tetris1.png)
+![Game](https://github.com/pawelzell/Tetris-Game/blob/master/screenshots/tetris2.png )
 
 This aplication require python 2.7 and pygame library
 - Python 2.7 available from: https://www.python.org/download/releases/2.7/
